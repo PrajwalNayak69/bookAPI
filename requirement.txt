@@ -1,0 +1,42 @@
+Requirements
+
+We Publications
+
+BOOK
+ISBN, Title, Author[], Language, Publication date, Number of pages, Category[]
+
+Author
+Name, ID, Books[]
+
+Publications
+Name, ID, Books[]
+
+Requirements
+
+Books
+We need an API to get all Books
+to get specific Books
+to get based on Category
+to get based on Author
+
+Author
+we need an API to get all Author
+to get specific Author
+list of author based on a Books
+
+Publications
+
+we need an API ro get all Publications
+to get specific Publications
+to get list based on author
+
+Finished all the get API 
+
+Post to send the data
+to upload a new Books
+
+Put 
+modify the exisiting data
+
+delete
+dete the current book or specific book
